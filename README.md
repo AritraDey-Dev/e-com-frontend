@@ -1,31 +1,3 @@
-<p align='center'>
-<img src='./src/assets/logo-new.svg'  width='25%'>
-</p>
-<p align='center'>
-<b>E-commerce web-application for selling clothing essentials</b>
-</p>
-<p align='center'>
-<a href='https://tomper-wear.netlify.app/' target='_blank'>tomper-wear.netlify.app</a> (cloud-based)
-<br/>
-<a href='https://tw.varuntiwari.com' target='_blank'>tw.varuntiwari.com</a> (self-hosted)
-</p>
-
----
-
-<p align='center'>
-This is the frontend of ejae build with MERN stack and deployed with <a href='https://www.netlify.com/' target='_blank'>Netlify</a>
-</p>
-
-<p align='center'>
-<img src='./assets/dpmain.png'>
-</p>
-
-## 🚀 Link to [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin), [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
-
-## 📷 Link to [Screenshots](./SCREENSHOTS.md)
-
-## 🎥 Link to [Video demo](https://youtu.be/5oGqxtSN0jY)
-
 ## 🧾 Description
 
 ejae is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.
