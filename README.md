@@ -127,7 +127,7 @@ This is privilege is ideal for the delivery-agent(s).
 
 ## ⚙ Tools and Technologies used
 
-#### [Client](https://github.com/varunKT001/tomper-wear-ecommerce)
+#### [Client]()
 
 1. [React.js](https://reactjs.org/)
 2. [React-icons](https://react-icons.github.io/react-icons/)
@@ -136,13 +136,13 @@ This is privilege is ideal for the delivery-agent(s).
 5. [Stripe](https://stripe.com/)
 6. [Formspree](https://formspree.io/)
 
-#### [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin)
+#### [Admin panel]()
 
 1. [React.js](https://reactjs.org/)
 2. [Chakra-ui](https://chakra-ui.com/)
 3. [React-icons](https://react-icons.github.io/react-icons/)
 
-#### [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
+#### [Backend]()
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
